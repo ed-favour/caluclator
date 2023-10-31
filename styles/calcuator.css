@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  font-family: Arial;
+  /* font-size: 18px; */
+
+}
+button{
+  /* width: 10px; */
+  /* height: auto; */
+  color: white;
+  padding: 15px 20px;
+  margin: 2px;
+  border: none;
+  border-radius: 50%;
+  font-size: 18px;
+  /* font-weight: bold; */
+
+
+}
+.btn-gray{
+  background-color: rgb(32, 32, 32);
+
+}
+.btn-gold{
+  background-color: rgb(248, 162, 33);
+
+}
+.js-cal{
+  color: white;
+  /* font-weight: bold; */
+  font-size: 30px;
+}
+.btn-gray-clear{
+  background-color: rgb(32, 32, 32);
+  font-size: 12px;
+  padding: 15px 10px;
+}
